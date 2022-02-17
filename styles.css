@@ -47,11 +47,9 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid red;
 }
 
 .head {
-  border: 2px solid red;
   height: 70px;
 }
 
@@ -174,7 +172,6 @@ button {
   display: flex;
   flex: 1;
   max-width: 830px;
-  border: 2px solid red;
 }
 
 .quote-copy p {
@@ -193,7 +190,6 @@ button {
   font-size: 28px;
   color: #1F2937;
   font-weight: 800;
-  border: 2px solid red;
   margin: 0px 16px;
 }
 
