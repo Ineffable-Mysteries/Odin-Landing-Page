@@ -199,6 +199,8 @@ button {
 
 .cta-container {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cta {
